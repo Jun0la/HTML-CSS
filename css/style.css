@@ -18,13 +18,17 @@
 head {align-items: center;}
 body {text-align: center;}
 
+img { width: 125px; height: 60px; top: 100px; padding-top: 1.2rem; }
+
 h1{color: #ff0000}
+
+marquee { font-size: medium; color: red;}
 
 span {font-size: xx-large; font-weight: bolder; color: #ff0000}
 
 #brand{display: flex; align-items: center; font-size: 0.8rem; margin-bottom: 1rem;}
 
-#exclusive{text-transform: uppercase; color: #0075ff; font-weight: bold; font-size: 2rem; margin-bottom: 1rem;}
+#exclusive{text-transform: uppercase; color: #0075ff; font-weight: bold; font-size: 2rem; margin-bottom: 1rem; padding-top: 1.25rem;}
 
 #about-container{flex: 2.5; padding: 2rem 4rem;}
 
